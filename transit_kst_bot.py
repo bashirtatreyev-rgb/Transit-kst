@@ -11,7 +11,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "8764057153:AAECkwSftp_qFYdkFwHALA"
+TOKEN = "8764057153:AAFZM-E7F_E9NaPK6ZpXKa5G0SyZGz0CsFo"
 
 ADMIN_ID = 6230694331
 
