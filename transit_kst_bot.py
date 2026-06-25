@@ -1,9 +1,6 @@
 """
 Transit KST - Telegram Bot (Aiogram 3)
-Заполните TOKEN и при необходимости ADMIN_ID.
-"""
-
-import asyncio
+ransiimport ""asyncio""
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters import CommandStart
 from aiogram.fsm.context import FSMContext
