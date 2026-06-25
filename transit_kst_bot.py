@@ -11,7 +11,8 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "PASTE_NEW_TOKEN_HERE"
+TOKEN = "8764057153:AAECkwSftp_qFYdkFwHALA"
+
 ADMIN_ID = 6230694331
 
 bot = Bot(TOKEN)
